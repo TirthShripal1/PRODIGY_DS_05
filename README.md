@@ -9,6 +9,8 @@
 Traffic accidents pose significant risks to public safety and understanding the factors contributing to them is crucial for effective prevention and management. This project focuses on analyzing traffic accident data to identify patterns related to road conditions, weather conditions, and time of day. By leveraging data-driven approaches, we aim to uncover insights that can inform strategies for improving road safety and reducing accidents.
 # Aim:
 Analyze traffic accident data to identify patterns related to road conditions, weather, and time of day. Visualize accident hotspots and contributing factors.
+# Dataset:
+The dataset is been taken from https://www.kaggle.com/code/harshalbhamare/us-accident-eda#Shape-of-original-data. 
 # Overview:
 The analysis involves examining a dataset of traffic accidents, typically sourced from government agencies or traffic safety organizations. Key variables of interest include road conditions (e.g., wet, dry, icy), weather conditions (e.g., clear, rainy, snowy), and the time of day (e.g., morning rush hour, night time). Through data preprocessing, exploratory data analysis (EDA), and visualization techniques, we aim to identify accident hotspots and understand the contributing factors that influence accident occurrence and severity.
 # Objectives:
